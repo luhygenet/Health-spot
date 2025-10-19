@@ -12,6 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+//fixed the meta data
 export const metadata: Metadata = {
   title: "Health-Spot",
   description: "Health-Spot placeholder app",
