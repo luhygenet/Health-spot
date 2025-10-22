@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 //fixed the meta data
+//can't stop
 export const metadata: Metadata = {
   title: "Health-Spot",
   description: "Health-Spot placeholder app",
